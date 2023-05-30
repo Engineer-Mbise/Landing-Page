@@ -1,0 +1,163 @@
+.img1{
+    position: absolute;
+    border: 1px solid black;
+    top: 106px;
+    display: block;
+    left: 30px;
+    padding: 30px;
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+    padding-bottom: 200px;
+}
+.img1d{
+    position: absolute;
+    top: 380px;
+    float: left;
+    width: 300px;
+    display: block;
+    left: 30px;
+ 
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1)); 
+
+}
+.img2{
+    position: absolute;
+    border: 1px solid black;
+    left: 400px;
+    top: 106px;
+    display: block;
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+
+padding-top: 50px;
+    padding-bottom: 223px;
+}
+.img2d{
+    position: absolute;
+    top: 380px;
+    left: 400px;
+    float: right;
+    width: 300px;
+    display: block;
+
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1)); 
+   
+
+}
+
+.img3{
+    position: absolute;
+    border: 1px solid black;
+    top: 626px;
+    display: block;
+    left: 30px;
+    padding: 30px;
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+
+    padding-bottom: 200px;
+}
+.img3d{
+    position: absolute;
+    top: 900px;
+    float: left;
+    width: 300px;
+    display: block;
+    left: 30px;
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+   
+
+}
+.img4{
+    position: absolute;
+    border: 1px solid black;
+    left: 400px;
+    top: 626px;
+    display: block;
+
+padding-top: 30px;
+    padding-bottom: 210px;
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+}
+.img4d{
+    position: absolute;
+    top: 900px;
+    left: 400px;
+    float: right;
+    width: 300px;
+    display: block;
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+   
+   
+
+}
+.img5{
+    position: absolute;
+    border: 1px solid black;
+    top: 1120px;
+    display: block;
+    left: 30px;
+    padding: 30px;
+    padding-top: 55px;
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+    padding-bottom: 166px;
+}
+.img5d{
+    position: absolute;
+    top: 1394px;
+    float: left;
+    width: 300px;
+    display: block;
+    left: 30px;
+ 
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+
+}
+.img6{
+    position: absolute;
+    border: 1px solid black;
+    left: 400px;
+    top: 1120px;
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+    display: block;
+
+padding-top: 30px;
+    padding-bottom: 210px;
+}
+.img6d{
+    transition: opacity 2s ease-in-out ;
+    background: linear-gradient(to bottom right,rgba(200,200,200,0.1),rgba(25,229,233,0.1));
+    position: absolute;
+    top: 1394px;
+    left: 400px;
+    float: right;
+    width: 300px;
+    display: block;
+
+   
+   
+
+}
+header{
+   
+   
+    border: 1px solid black;
+    background: linear-gradient(to top right,rgba(255,3,240,0.1),rgba(5,24,200,0.1));
+}
+footer{
+    position: absolute;
+    top: 1600px;
+    border: 1px solid black;
+    width: 700px;
+    text-align: center;
+    background: linear-gradient(to top left,rgba(100,120,2,0.4),rgba(30,120,30,0.4));
+ 
+}
